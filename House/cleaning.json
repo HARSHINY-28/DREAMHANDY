@@ -1,0 +1,78 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Baby Kit",
+            "price": 135,
+            "image": "./images/bb12.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Baby Balance Soft Jersey",
+            "price": 950,
+            "image": "./images/bb11.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Velvet Baby Mosquito NetBed",
+            "price": 750,
+            "image": "./images/bb10.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Feeding Bottle",
+            "price": 999,
+            "image": "./images/bb9.jpg"
+        },
+        {
+            "id": 5,
+            "title": "WoodWards Gripe Water",
+            "price": 250,
+            "image": "./images/bb8.jpg"
+
+        },
+        {
+            "id": 6,
+            "title": "Baby Wipes",
+            "price": 850,
+            "image": "./images/bb7.jpg"
+
+        },
+        {
+            "id": 7,
+            "title": "Baby Powder",
+            "price": 600,
+            "image": "./images/bb5.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Baby Cream",
+            "price": 350,
+            "image": "./images/bb4.png"
+        },
+        {
+            "id": 9,
+            "title": "Laundary Wash",
+            "price": 799,
+            "image": "./images/bb3.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Baby Oil",
+            "price": 150,
+            "image": "./images/bb2.jpg"
+        },
+        {
+            "id": 11,
+            "title":"Baby Lotion",
+            "price": 650,
+            "image": "./images/bb1.jpg"
+        },
+        {
+            "id": 12,
+            "title":"Baby Bath Tub",
+            "price": 650,
+            "image": "./images/bb15.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Living Room Furnitue",
+            "price": 135,
+            "image": "./images/PIC6.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Kendalwood Funiture",
+            "price": 950,
+            "image": "./images/PIC8.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Lions Gate Antiques",
+            "price": 750,
+            "image": "./images/pic17.jfif"
+        },
+        {
+            "id": 4,
+            "title": "Royalty-Free Stock",
+            "price": 999,
+            "image": "./images/pic4.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Furniture Stock",
+            "price": 250,
+            "image": "./images/pic5.jpg"
+
+        },
+        {
+            "id": 6,
+            "title": "Dinning Table",
+            "price": 850,
+            "image": "./images/pic12.jpg"
+
+        },
+        {
+            "id": 7,
+            "title": "Royal Bharat",
+            "price": 600,
+            "image": "./images/pic13.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Home Center Nairobi",
+            "price": 350,
+            "image": "./images/pic8.jpeg"
+        },
+        {
+            "id": 10,
+            "title": "Modern sofa set Interior",
+            "price": 150,
+            "image": "./images/pic9.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Wood Design Sofa",
+            "price": 650,
+            "image": "./images/pic7.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Wooden TeaTable",
+            "price": 650,
+            "image": "./images/pic14.jpg"
+        },
+        {
+            "id": 13,
+            "title": "Dressing Table",
+            "price": 650,
+            "image": "./images/pic16.jpg.crdownload"
+        }
+    ]
+}

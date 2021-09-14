@@ -1,0 +1,78 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Square Grill Skillet",
+            "price": 135,
+            "image": "./images/coo16.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Ceramic Measuring Cup",
+            "price": 950,
+            "image": "./images/coo18.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Handling Utensils",
+            "price": 750,
+            "image": "./images/coo11.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Steel Spoon Landle",
+            "price": 999,
+            "image": "./images/co4.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Handy Gadget",
+            "price": 250,
+            "image": "./images/coo14.jpg"
+
+        },
+        {
+            "id": 6,
+            "title": "Quart Oval Black Cooker",
+            "price": 850,
+            "image": "./images/coo15.jfif.crdownload"
+
+        },
+        {
+            "id": 7,
+            "title": "Bread Maker",
+            "price": 600,
+            "image": "./images/coo20.jpg"
+        },
+        {
+            "id": 8,
+            "title": "CookWare",
+            "price": 350,
+            "image": "./images/coo6.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Craft Stainless Steels",
+            "price": 799,
+            "image": "./images/coo7.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Dual Basket Pro Fry",
+            "price": 150,
+            "image": "./images/coo17.jpeg"
+        },
+        {
+            "id": 11,
+            "title": "Bob Villa-Dish Drier",
+            "price": 650,
+            "image": "./images/coo12.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Non-Stick Pans",
+            "price": 650,
+            "image": "./images/coo21.jpg"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "White with Blue Curtain",
+            "price": 135,
+            "image": "./images/c1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Genoa Sheer Curtain",
+            "price": 950,
+            "image": "./images/c2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Blackout Curtain",
+            "price": 750,
+            "image": "./images/c3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Dark Red Curtain",
+            "price": 999,
+            "image": "./images/c4.jpg"
+        },
+        {
+            "id": 5,
+            "title": "BLack and White Curtain",
+            "price": 250,
+            "image": "./images/c5.jpg"
+
+        },
+        {
+            "id": 6,
+            "title": "Raw White Curtain",
+            "price": 850,
+            "image": "./images/c6.jpg"
+
+        },
+        {
+            "id": 7,
+            "title": "Nordiac Grey Curtain",
+            "price": 600,
+            "image": "./images/c7.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Colourful Window Curtain",
+            "price": 350,
+            "image": "./images/c8.webp"
+        },
+        {
+            "id": 9,
+            "title": "Chiffon Plain Curtain",
+            "price": 799,
+            "image": "./images/c9.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Femfairy Plain Curtain",
+            "price": 150,
+            "image": "./images/c10.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Clear Creek Curtain",
+            "price": 650,
+            "image": "./images/c11.jpeg"
+        },
+        {
+            "id": 12,
+            "title": "Baby Pink Curtain",
+            "price": 650,
+            "image": "./images/c14.png"
+        }
+    ]
+}
